@@ -3,7 +3,7 @@ Trabalho individual da matéria de API RestFul
 
 
 -Endpoints-
-Post: localhost:8080/livro
+Post: localhost:8080/livro/n
 Get all: localhost:8080/livro
 Get One: localhost:8080/livro/1
 delete: localhost:8080/livro/1
